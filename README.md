@@ -2,7 +2,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/carjavi/aws-guide/master/img/AWS.png" height="200" alt=" " /></p>
 <br>
 <h1 align="center">Amazon Web Service Guide</h1> 
-<h4 align="right">Mar 23</h4>
+<h4 align="right">Dec 17</h4>
 <img src="https://img.shields.io/badge/OS-Linux%20GNU-yellowgreen">
 <img src="https://img.shields.io/badge/OS-Windows%2011-blue">
 <img src="https://img.shields.io/badge/OS%20-Raspbian%20GNU%2FLinux%2011%20(bulleye)-yellowgreen">
@@ -120,14 +120,14 @@ https://aws.amazon.com/es/sns/
 En concreto, AWS Greengrass permite la administración basada en la nube de aplicaciones que pueden implementarse para ejecutarse localmente (SIN UN SERVIDOR)…
 
 ## Notas:
-Bróker es un intermediario
-Broadcast es un emisor
-Amazon Simple Storage Service (Amazon S3)
-Amazon Elastic Compute Cloud (Amazon EC2)
-SHADOW STATE ¿??????
-SHADOW METADETA??????????
-AMAZON LIGHTSAIL
-Instancias  en Amazon: son maquinas virtuales
+Bróker es un intermediario<br>
+Broadcast es un emisor<br>
+Amazon Simple Storage Service (Amazon S3)<br>
+Amazon Elastic Compute Cloud (Amazon EC2)<br>
+SHADOW STATE ¿??????<br>
+SHADOW METADETA??????????<br>
+AMAZON LIGHTSAIL<br>
+Instancias  en Amazon: son maquinas virtuales<br>
 
 
 ---
