@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://raw.githubusercontent.com/carjavi/aws-guide/master/img/AWS.png" height="100" alt=" " /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/carjavi/aws-guide/master/img/AWS.png" height="200" alt=" " /></p>
 <br>
 <h1 align="center">Amazon Web Service Guide</h1> 
 <h4 align="right">Mar 23</h4>
@@ -8,6 +8,23 @@
 <img src="https://img.shields.io/badge/OS%20-Raspbian%20GNU%2FLinux%2011%20(bulleye)-yellowgreen">
 
 <br>
+
+Link AWS-IoT: https://docs.aws.amazon.com/es_es/iot/latest/developerguide/iot-dg.pdf#what-is-aws-iot
+
+SDK: https://aws.amazon.com/es/iot/sdk/
+
+Soporte AWS IoT: aws-iot-button@amazon.com
+
+<br>
+
+# Getting Your Credentials
+When you create an AWS account, your account is provided with root credentials. Those credentials consist of two access keys:
+
+credenciales de AWS account root user
+* Access key ID
+* Secret access key
+
+Se utilizan diferentes tipos de credenciales de seguridad, en función de cómo se interaccione con AWS. Por ejemplo, puede utilizar un nombre de usuario y una contraseña para iniciar sesión en la Consola de administración de AWS.
 
 # Los certificados de CA raíz:?
 ## root CA for AWS IoT
@@ -31,7 +48,6 @@ Creación de una política de AWS IoT (Las políticas de AWS IoT se utilizan par
 
 Una política de AWS IoT es un documento JSON que contiene una o varias declaraciones de política. Cada declaración contiene un Effect, una Action y un Resource. El Effect especifica si se permitirá o se denegará la acción. La Action especifica la acción que la política permite o deniega. El Resource especifica los recursos en los que se permite o se deniega la acción
 
-Debug ¿¿?¿lkjlkjllkj
 
 # SDK
 Un kit de desarrollo de software es generalmente un conjunto de herramientas de desarrollo de software que le permite al programador o desarrollador de software crear una aplicación informática para un sistema concreto, por ejemplo ciertos paquetes de software, frameworks, plataformas de hardware, computadoras, videoconsolas, sistemas operativos, etcétera.
@@ -103,18 +119,14 @@ https://aws.amazon.com/es/sns/
 
 En concreto, AWS Greengrass permite la administración basada en la nube de aplicaciones que pueden implementarse para ejecutarse localmente (SIN UN SERVIDOR)…
 
-
+## Notas:
 Bróker es un intermediario
 Broadcast es un emisor
-
 Amazon Simple Storage Service (Amazon S3)
 Amazon Elastic Compute Cloud (Amazon EC2)
-
 SHADOW STATE ¿??????
 SHADOW METADETA??????????
-
 AMAZON LIGHTSAIL
-
 Instancias  en Amazon: son maquinas virtuales
 
 
